@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Prajjwal Pachauri</h1>
-<h3 align="center">A passionate Software developer student.</h3>
+<h1 align="left">Hi, I'm Prajjwal Pachauri</h1>
+<h3 align="left">A passionate Software developer student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cypher-cs&label=Profile%20views&color=0e75b6&style=flat" alt="cypher-cs" /> </p>
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/cypher-cs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cypher-cs" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/prajjwal_cs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prajjwal_cs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
