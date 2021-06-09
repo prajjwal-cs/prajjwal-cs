@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data structure in Java**
 
-- 🌱 I’m currently learning **Java, Ethical hacking and Data Science**
+- 🌱 I’m currently learning **Java, Ethical hacking, Web design and Data Science**
 
 - 🤝 I’m looking for help with **Data structure and Algorithm**
 
@@ -19,6 +19,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cypher-cs&show_icons=true&theme=tokyonight&locale=en" alt="cypher-cs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajjwal-cs&show_icons=true&theme=tokyonight&locale=en" alt="prajjwal-cs" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cypher-cs&" alt="cypher-cs" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajjwal-cs&" alt="prajjwal-cs" /></p>
