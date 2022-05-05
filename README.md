@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cypher-cs&label=Profile%20views&color=0e75b6&style=flat" alt="cypher-cs" /> </p>
 
-- 🔭 I’m currently working on **Data structure in Java**
+- 🔭 I’m currently working on **Spring framework in Java**
 
-- 🌱 I’m currently learning **Java, Ethical hacking, Web design and Data Science**
+- 🌱 I’m currently learning **Java, Web design and Data Science**
 
 - 🤝 I’m looking for help with **Data structure and Algorithm**
 
-- 📫 How to reach me **prajjwal199275@gmail.com**
+- 📫 How to reach me **prajjwalpachauri725@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
