@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajjwal-cs" alt="prajjwal-cs" /></a> </p>
 
-- 🔭 I’m currently working in [Bitcomm Technologies]
+- 🔭 I’m currently working in Bitcomm Technologies pvt. ltd.
 
 - 🌱 I’m currently learning **Spring Framework, Spring Boot and Stream API**
 
