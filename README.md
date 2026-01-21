@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajjwal-cs" alt="prajjwal-cs" /></a> </p>
 
-- 🔭 I’m currently working on **Java-based networking applications**
+- 🔭 I’m currently working on **Java Spring Security**
 
 - 🌱 I’m currently learning **Backend development with Spring Boot and Docker & containerized development**
 
